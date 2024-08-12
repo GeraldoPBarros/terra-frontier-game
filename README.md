@@ -16,6 +16,8 @@ HTML, CSS and Javascript.
 - Diverse Pokémon to catch
   
 - Interactive overworld exploration
+
+- Move using W,A,S and D
   
 
 ## Run the project
